@@ -13,10 +13,6 @@ https://zetamk.xyz
 Technologie: Cloudflare DNS, CDN, Security, Pages, GitHub integration
 
 ## Screenshoty
-![Overview](screenshots/overview.png)  
-![DNS](screenshots/dns.png)  
-![SSL](screenshots/ssl.png)  
-![Pages](screenshots/pages.png)  
 
 <img width="987" height="575" alt="ssl" src="https://github.com/user-attachments/assets/a007e632-19ce-40b9-a009-deca4ca2e791" />
 <img width="1551" height="542" alt="pages" src="https://github.com/user-attachments/assets/a5dd382d-7fb1-42d7-a862-9917fbd3cda9" />
